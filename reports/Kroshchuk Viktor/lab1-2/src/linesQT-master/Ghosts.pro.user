@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.13.84, 2021-11-21T00:14:42. -->
+<!-- Written by QtCreator 4.13.84, 2021-11-26T14:11:47. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -294,8 +294,9 @@
     <valuelist type="QVariantList" key="CustomOutputParsers"/>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:C:/Users/Viktor/Documents/qt projects/linesQT-master/linesQT-master/Ghosts.pro</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/Viktor/Documents/qt projects/linesQT-master/linesQT-master/Ghosts.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Ghosts2</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:C:/Users/Viktor/OSiSP-po-5/reports/Kroshchuk Viktor/lab1-2/src/linesQT-master/Ghosts.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/Viktor/OSiSP-po-5/reports/Kroshchuk Viktor/lab1-2/src/linesQT-master/Ghosts.pro</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>

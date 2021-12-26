@@ -1,0 +1,11 @@
+{
+    "currentVersion": "1.1",
+    "updates": [
+      {
+        "fromVersion": "1.0",
+        "changes": [
+          "/plugins/fontPlugin.dll"
+        ]
+      }
+  ]
+}
